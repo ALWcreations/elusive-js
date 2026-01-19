@@ -1,0 +1,17 @@
+{
+  "landing page viewed": {
+    "owner": "landing",
+    "what": "object",
+    "description": "Landing page became visible to the user"
+  },
+  "user clicked primary cta": {
+    "owner": "landing",
+    "what": "object",
+    "description": "User clicked the primary call to action"
+  },
+  "user clicked secondary cta": {
+    "owner": "landing",
+    "what": "object",
+    "description": "User clicked the secondary call to action"
+  }
+}
